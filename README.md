@@ -3,7 +3,8 @@
 
 - 👩‍💻 No lado Tech da força desde 2014
 - 🎓 Tec. Informática Industrial e Automação CEFET-MG
-- 📊 Engenharia Computacional na UFJF
+- 📊 Engenheira Computacional pela UFJF
+- 📚 Pós Graduanda em Análise de Dados pela Faculdade Descomplica
 - 🌱 Thaistudandoo Python atualmente
 - 😄 Pronomes: Ela/Dela
 
