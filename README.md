@@ -4,7 +4,7 @@
 - 👩‍💻 No lado Tech da força desde 2014
 - 🎓 Tec. Informática Industrial e Automação CEFET-MG
 - 📊 Engenheira Computacional pela UFJF
-- 📚 Pós Graduanda em Análise de Dados pela Faculdade Descomplica
+- 📚 Pós Graduanda em Análise de Dados
 - 🌱 Thaistudandoo Python atualmente
 - 😄 Pronomes: Ela/Dela
 
