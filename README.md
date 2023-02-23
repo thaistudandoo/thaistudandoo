@@ -2,9 +2,9 @@
 ## Aqui quem fala é a Thaís!✨
 
 - 👩‍💻 No lado Tech da força desde 2014
-- 🎓 Tec. Informática Industrial e Automação CEFET-MG
-- 📊 Engenheira Computacional pela UFJF
 - 📚 Pós Graduanda em Análise de Dados
+- 📊 Engenheira Computacional pela UFJF
+- 🎓 Tec. Informática Industrial e Automação pelo CEFET-MG
 - 🌱 Thaistudandoo Python atualmente
 - 😄 Pronomes: Ela/Dela
 
