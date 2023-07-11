@@ -5,7 +5,7 @@
 - 📚 Pós Graduanda em Análise de Dados
 - 📊 Engenheira Computacional pela UFJF
 - 🎓 Tec. Informática Industrial e Automação pelo CEFET-MG
-- 🌱 Thaistudandoo Python atualmente
+- 🌱 Thaistudandoo Ciência de Dados atualmente
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
