@@ -1,12 +1,12 @@
-## "Hello, World!" 🌎🖖
+## Hello, World!🖖
 ## Aqui quem fala é a Thaís!✨
 
-- 👩‍💻 No lado Tech da força desde 2014
-- 📚 Pós Graduanda em Análise de Dados
-- 📊 Engenheira Computacional pela UFJF
-- 🎓 Tec. Informática Industrial e Automação pelo CEFET-MG
-- 🌱 Thaistudandoo Ciência de Dados atualmente
-- 😄 Pronomes: Ela/Dela
+◦ 👩‍💻 No lado Tech da força desde 2014
+◦ 📚 Pós Graduanda em Análise de Dados
+◦ 📊 Engenheira Computacional pela UFJF
+◦ 🎓 Tec. Informática Industrial e Automação pelo CEFET-MG
+◦ 🌱 Thaistudandoo Ciência de Dados atualmente
+● 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/thaistudandoo">
