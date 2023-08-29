@@ -1,12 +1,12 @@
 ## Hello, World!🖖
 ## Aqui quem fala é a Thaís!✨
 
-◦ 👩‍💻 No lado Tech da força desde 2014
-◦ 📚 Pós Graduanda em Análise de Dados
-◦ 📊 Engenheira Computacional pela UFJF
-◦ 🎓 Tec. Informática Industrial e Automação pelo CEFET-MG
-◦ 🌱 Thaistudandoo Ciência de Dados atualmente
-● 📫 Entre em contato pelo email: athaismarins@gmail.com
+◦ 👩‍💻 No lado Tech da força desde 2014 <br>
+◦ 📚 Pós Graduanda em Análise de Dados <br>
+◦ 📊 Engenheira Computacional pela UFJF <br>
+◦ 🎓 Tec. Informática Industrial e Automação pelo CEFET-MG <br>
+◦ 🌱 Thaistudandoo Ciência de Dados atualmente <br>
+● 📫 Entre em contato pelo email: athaismarins@gmail.com <br>
 
 <div align="center">
   <a href="https://github.com/thaistudandoo">
