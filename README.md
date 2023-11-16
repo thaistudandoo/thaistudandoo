@@ -1,7 +1,4 @@
-## Hello, World!🖖
-## Aqui quem fala é a Thaís!✨
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9505E3&size=35&center=true&vCenter=true&width=1000&lines=+Hello+,+World!+🖖;+Seja+bem-vindo+ao+universo+Thaistudandoo🌌;Eu+sou+a+Thaís+Marins+✨+;Nesse+espaço+documento+meus+estudos;+e+projetos+de+ciência+de+dados💫;Fica+pra+ver!🪐+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Marcellus&size=19&pause=1000&color=9505E3&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!%F0%9F%96%96;Bem-vindo+ao+universo+Thaistudandoo%F0%9F%8C%8C;Eu+sou+a+Tha%C3%ADs+Marins%E2%9C%A8;Nesse+espa%C3%A7o+concentro+meus+estudos+;e+projetos+de+ci%C3%AAncia+de+dados%F0%9F%92%AB;Fica+pra+ver%F0%9F%AA%90)](https://git.io/typing-svg)
 
 ✦ 👩‍💻 No lado Tech da força desde 2014 <br>
 ✦ 📚 Pós Graduada em Análise de Dados <br>
